@@ -118,4 +118,9 @@ public class MaquinaControllerTest {
 
         ValidacionesMaquina.validarResultadoD(resultado, maquinas);
     }
+
+
+
+    
+   
 }
